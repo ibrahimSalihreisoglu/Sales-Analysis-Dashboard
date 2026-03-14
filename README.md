@@ -38,6 +38,6 @@ Interactive sales analysis dashboard built with Power BI, analyzing 10,000 custo
 
 ## Author
 
-**Ibrahim Salih Reisoglu**
-- [LinkedIn](LinkedIn profil linkini yapıştır)
+**İbrahim Salihreisoğlu**
+- [LinkedIn](www.linkedin.com/in/ibrahim-salihreisoğlu-ab931a260)
 - [GitHub](https://github.com/ibrahimSalihreisoglu)
