@@ -8,7 +8,7 @@ Interactive sales analysis dashboard built with Power BI, analyzing 10,000 custo
 
 ## Live Demo
 
-[Click here to view the interactive dashboard](https://app.powerbi.com/view?r=eyJrIjoiN2FjODIyMmUtMmRiYi00NjkwLTljYmQtOWVhNWE5Y2VlZmMwIiwidCI6IjQwM2RmZTQxLWU5NmMtNDkwYy05NTZmLWY0NzZjMGI5MDA1OSIsImMiOjl9))
+[Click here to view the interactive dashboard](https://app.powerbi.com/view?r=eyJrIjoiN2FjODIyMmUtMmRiYi00NjkwLTljYmQtOWVhNWE5Y2VlZmMwIiwidCI6IjQwM2RmZTQxLWU5NmMtNDkwYy05NTZmLWY0NzZjMGI5MDA1OSIsImMiOjl9)
 
 ## Features
 
